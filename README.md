@@ -6,7 +6,7 @@ A browser-based Tic-Tac-Toe game built with **HTML, CSS, and JavaScript** as par
 
 ## Live Demo
 
-👉 **[View the project here](https://ourhouchmohamed97.github.io/odin-library-app/)**
+👉 **[View the project here](https://ourhouchmohamed97.github.io/tic-tac-toe/)**
 
 
 ## Features
